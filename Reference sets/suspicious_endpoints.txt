@@ -1,0 +1,1 @@
+suspicious_endpoints reference set used for Encoded PowerShell rule.
