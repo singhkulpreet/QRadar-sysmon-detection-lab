@@ -1,0 +1,1 @@
+UTF8(payload) ILIKE '%Sysmon%' AND (UTF8(payload) ILIKE '%powershell%' AND (UTF8(payload) ILIKE '%-enc%' OR UTF8(payload) ILIKE '%EncodedCommand%'))
